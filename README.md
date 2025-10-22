@@ -45,7 +45,7 @@ The goal is to uncover insights into sales performance, regional distribution, a
 ---
 
 ### 🧠 How to Use
-1. Download the dataset 👉 [`iphone_sales_2020_2025_full.csv`](./iphone_sales_2020_2025_full.csv)
+1. Download the dataset 👉 [`iphone_sales_2020_2025_full.csv`](iphone_india_full.csv)
 2. Load it into **Power BI** or **Excel**.
 3. Create relationships between `Model_ID`, `Region`, and `Month`.
 4. Build visuals for sales trends, revenue distribution, and model specs.
